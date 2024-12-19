@@ -1,1 +1,1 @@
-# dani-week-1
+# NextGen-Internship-P1-Week1
